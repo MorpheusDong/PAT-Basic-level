@@ -2,7 +2,7 @@
 using namespace std;
 
 #define MAXN    100000
-int prime[MAXN];        //质数表
+int prime[MAXN];        //素数表
 bool p[MAXN] = {false}; //判断是否筛选
 int pNum = 0;           //指针
 
